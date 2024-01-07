@@ -11,7 +11,7 @@
 
 <div> 
   <hr> 
-<img alt="Coder"  width = 35% padding = "5px" margin-left = "10px" src="https://github.com/allan7yin/allan7yin/assets/66652405/c612b737-f593-4574-8b6e-5c191c5e7c09" align="right"/>
+<img alt="Coder"  width = 35% padding = "5px" margin-left = "10px" src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif" align="right"/>
 </div> 
 
 I'm a computer science student at the University of Toronto!
