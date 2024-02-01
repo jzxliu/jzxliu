@@ -20,10 +20,12 @@ I'm a computer science student at the University of Toronto!
 * Full-stack Development
 * Machine Learning + Artificial Intelligence
 * Indie Game Development as a Hobby
-* Maintaining an Active Lifestyle
+* Maintaining an Active Lifestyle (I love running, bouldering and dragon boating!)
+* I also love music - collecting vinyl and playing guitar!
 
 ⚡ Current Activity:
-* Learning machine learning frameworks like Pytorch
+* Learning Ruby and GoLang
+* Studying machine learning frameworks like Pytorch
 * Front-End Development with React.js
   
 Don't hesitate to contact me regarding my experiences or for friendly conversations – let's connect!
