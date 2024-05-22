@@ -9,9 +9,9 @@
 <img alt="Coder"  width = 35% padding = "5px" margin-left = "10px" src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif" align="right"/>
 </div> 
 
-I'm a computer science student at the University of Toronto!
-Currently Interning at AWS.
-Apologies for the lack of green squares, not really using Github for both schoolwork and internship.
+I'm a computer science student at the University of Toronto!  
+Currently Interning at AWS.  
+Apologies for the lack of green squares, not really using Github for both schoolwork and internship.  
 
 🌱 Interests:
 * Full-stack Development
